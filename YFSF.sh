@@ -4,7 +4,7 @@
 #  Program:  Y.F(ortran).S(ource).F(ormatter)                            #
 #                                                                        #
 #  Purpose: Provide and automatic approach for formatting                #
-#  fortran sources according to YF's standards                           #
+#  fortran sources according to some pre defined standards               #
 #                                                                        #
 #  Standard:                                                             #
 #  See full description >>> ...                                          #
